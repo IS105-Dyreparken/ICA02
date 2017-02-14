@@ -2,7 +2,7 @@ package algorithms
 
 // Les https://en.wikipedia.org/wiki/Bubble_sort
 // Min kode her
-func Bubble_sort_modified(list []int) {
+func Bubble_sort_modified(input []int) {
 	size := len(input)
   swapped := true
   for swapped {
