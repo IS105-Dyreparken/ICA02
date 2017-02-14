@@ -1,7 +1,5 @@
 package algorithms
 
-//var toBe [10]int = [10]int{1,3,4,7,9,10,11,16,20,40}
-
 func benchmarkBSortModified(input []int) {
   size := len(input)
   swapped := true
