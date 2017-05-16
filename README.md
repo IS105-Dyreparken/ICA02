@@ -1,5 +1,15 @@
-# ICA02
+# ICA02 for gruppe 2, Dyreparken
 
-Deltakere:
+Består av:  
 
-NIkolai Holmen Dyb
+Dyb, Nikolai Holmen
+
+Hassan, Shiwan
+
+Krossen, Ella
+
+Sandøy, Benjamin AG
+
+Thompson, Sindre  
+
+Yang, Erik
